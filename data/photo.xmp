@@ -1,0 +1,89 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c007 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:aux="http://ns.adobe.com/exif/1.0/aux/"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   tiff:Make="NIKON CORPORATION"
+   tiff:Model="NIKON D5000"
+   tiff:Orientation="1"
+   tiff:ImageWidth="4288"
+   tiff:ImageLength="2848"
+   exif:ExifVersion="0221"
+   exif:ExposureTime="1/125"
+   exif:ShutterSpeedValue="6965784/1000000"
+   exif:FNumber="13/1"
+   exif:ApertureValue="7400879/1000000"
+   exif:ExposureProgram="3"
+   exif:ExposureBiasValue="0/6"
+   exif:MaxApertureValue="40/10"
+   exif:MeteringMode="5"
+   exif:LightSource="0"
+   exif:FocalLength="260/10"
+   exif:SensingMethod="2"
+   exif:FileSource="3"
+   exif:SceneType="1"
+   exif:FocalLengthIn35mmFilm="39"
+   exif:CustomRendered="0"
+   exif:ExposureMode="0"
+   exif:WhiteBalance="0"
+   exif:SceneCaptureType="0"
+   exif:GainControl="0"
+   exif:Contrast="0"
+   exif:Saturation="0"
+   exif:Sharpness="0"
+   exif:SubjectDistanceRange="0"
+   exif:DigitalZoomRatio="1/1"
+   exif:DateTimeOriginal="2013-05-14T02:10:58.00"
+   exif:PixelXDimension="4288"
+   exif:PixelYDimension="2848"
+   exif:GPSLatitude="55,55.7584851N"
+   exif:GPSLongitude="12,18.2030368128E"
+   exif:GPSVersionID="2.2.0.0"
+   exif:GPSAltitude="373884/10000"
+   xmp:CreatorTool="Ver.1.00"
+   xmp:ModifyDate="2013-05-14T02:10:58.00"
+   xmp:CreateDate="2013-05-14T02:10:58.00"
+   xmp:MetadataDate="2013-07-05T18:00:42-07:00"
+   aux:SerialNumber="3034277"
+   aux:LensInfo="180/10 1050/10 35/10 56/10"
+   aux:Lens="18.0-105.0 mm f/3.5-5.6"
+   aux:LensID="158"
+   aux:ImageNumber="17725"
+   aux:ApproximateFocusDistance="4294967295/1"
+   photoshop:DateCreated="2013-05-14T02:10:58.00"
+   xmpMM:DocumentID="215D56E6416F29FE8B5EB55CB07FA6B8"
+   xmpMM:OriginalDocumentID="215D56E6416F29FE8B5EB55CB07FA6B8"
+   xmpMM:InstanceID="xmp.iid:8E0E6D9C252068118083F0363E7774A3"
+   dc:format="image/x-nikon-nef"
+   crs:RawFileName="DSC_0342.NEF">
+   <exif:ISOSpeedRatings>
+    <rdf:Seq>
+     <rdf:li>160</rdf:li>
+    </rdf:Seq>
+   </exif:ISOSpeedRatings>
+   <exif:Flash
+    exif:Fired="False"
+    exif:Return="0"
+    exif:Mode="0"
+    exif:Function="False"
+    exif:RedEyeMode="False"/>
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:8E0E6D9C252068118083F0363E7774A3"
+      stEvt:when="2013-07-05T18:00:42-07:00"
+      stEvt:softwareAgent="Adobe Photoshop Lightroom 4.1 (Macintosh)"
+      stEvt:changed="/metadata"/>
+    </rdf:Seq>
+   </xmpMM:History>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
